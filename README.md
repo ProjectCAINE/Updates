@@ -7,3 +7,4 @@ Initial build
 # 1.1
 Made the display work
 
+[images/v1.1.png]
