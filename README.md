@@ -26,3 +26,8 @@ Fixed it :3
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e159d9c3-6bb9-47aa-b7c2-314d84b425d0" />
 
+# 1.5
+Better...
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be3c9049-8711-43ca-86f6-4ac1013d7f3c" />
+
