@@ -20,3 +20,9 @@ Resembling things...
 Oh fuck i broke it
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dcd43dc1-9cd8-4eaf-b6a6-0532369d0120" />
+
+# 1.4
+Fixed it :3
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e159d9c3-6bb9-47aa-b7c2-314d84b425d0" />
+
