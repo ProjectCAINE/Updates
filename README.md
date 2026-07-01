@@ -10,3 +10,8 @@ Initial build
 Made the display work
 
 <img width="1918" height="1080" alt="v1 1" src="https://github.com/user-attachments/assets/0776b364-8402-4996-850a-46f046d4ddeb" />
+
+# 1.2
+Resembling things...
+
+<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/fc848122-088d-44a3-89c5-df38ae6456ed" />
