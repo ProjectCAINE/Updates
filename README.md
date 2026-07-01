@@ -31,3 +31,9 @@ Better...
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be3c9049-8711-43ca-86f6-4ac1013d7f3c" />
 
+# 1.6
+It is developing...
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c8abb4ac-53f6-4e81-8cc2-8d97d3e86828" />
+
+
